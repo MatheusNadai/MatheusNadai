@@ -3,7 +3,7 @@
 
 
 
-- ▶️ I regulary post pictures on <a href="instagram.com/matheus_nadai"/>
+- ▶️ I regulary post pictures on <a href="instagram.com/matheus_nadai"> @matheus_nadai </a>
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
