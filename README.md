@@ -20,5 +20,6 @@
 <a href="https://instagram.com/matheus_nadai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="matheusnadai" height="20" width="20" /></a>
 </p>
 
-
+<center>
 ![Matheus de Nadai Github Stats](https://github-readme-stats.vercel.app/api?username=MAtheusNadai&show_icons=true&theme=react)
+</center>
