@@ -21,4 +21,4 @@
 </p>
 
 
-![Matheus de Nadai Github Stats](https://github-readme-stats.vercel.app/api?username=MAtheusNadai&show_icons=true&theme=radical)
+![Matheus de Nadai Github Stats](https://github-readme-stats.vercel.app/api?username=MAtheusNadai&show_icons=true&theme=react)
