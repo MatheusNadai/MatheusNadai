@@ -3,11 +3,11 @@
 
 
 
-- ▶️ I regulary post pictures on instagram/matheus_nadai
+- ▶️ I regulary post pictures on <a href="instagram.com/matheus_nadai"/>
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 📫 How to reach me **matheus.nadai@hotmail.com*
+- 📫 How to reach me *matheus.nadai@hotmail.com*
 
 - ⚡ Fun fact **Let's go 😜**
 
