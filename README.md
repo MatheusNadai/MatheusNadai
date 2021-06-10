@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
+- 🚀 Studying node.js, React.Js
+
 - 📫 How to reach me *matheus.nadai@hotmail.com*
 
 - ⚡ Fun fact **Let's go 😜**
