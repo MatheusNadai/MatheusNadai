@@ -21,9 +21,12 @@
 </p>
 
 
-![Matheus de Nadai Github Stats](https://github-readme-stats.vercel.app/api?username=MAtheusNadai&show_icons=true&theme=react)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNadai&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNadai&show_icons=true&theme=react" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNadai&theme=react" />
+</p>
 
 "A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir." - Elon Musk 🤯
