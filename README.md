@@ -7,7 +7,7 @@
 
 - 🚀 Studying node.js, React.Js, React Native
 
-- 📫 How to reach me *matheus.nadai@hotmail.com*
+- 📫 How to reach me *mnadai@slideworks.cc*
 
 - ⚡ Fun fact **Let's go 😜**
 
