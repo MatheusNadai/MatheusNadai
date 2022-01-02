@@ -5,7 +5,7 @@
 
 - ▶️ I regulary post pictures on <a href="https://www.instagram.com/matheus_nadai/"> @matheus_nadai </a>
 
-- 🚀 Studying node.js, React.Js, React Native
+- 🚀 Node.js, React.Js, React Native
 
 - 📫 How to reach me *mnadai@slideworks.cc*
 
