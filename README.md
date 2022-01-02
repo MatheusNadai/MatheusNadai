@@ -27,4 +27,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNadai&theme=react" />
 </p>
 
-"A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir." - Elon Musk 🤯
+"Há sempre a escolha entre voltar atrás para a segurança ou seguir em frente para o crescimento. O crescimento deve ser escolhido uma, duas, três e infinitas vezes" 🤯
