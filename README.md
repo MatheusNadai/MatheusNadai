@@ -19,13 +19,5 @@
 </p>
 
 
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusNadai&show_icons=true&theme=react" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNadai&theme=react" />
-</p>
-
 "Há sempre a escolha entre voltar atrás para a segurança ou seguir em frente para o crescimento. O crescimento deve ser escolhido uma, duas, três e infinitas vezes" 🤯
 
