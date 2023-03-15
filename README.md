@@ -7,7 +7,7 @@
 
 - 🚀 Node.js, React.Js, React Native
 
-- 📫 How to reach me *mnadai@slideworks.cc*
+- 📫 How to reach me *https://www.matheusnadai.dev*
 
 - ⚡ Fun fact **Let's go 😜**
 
