@@ -9,11 +9,6 @@
 This is my favorite environment, where ideas and innovation become code.
 </h2>
 
-
-- ▶️ I regulary post pictures on <a href="https://www.instagram.com/matheus_nadai/"> @matheus_nadai </a>
-
-- 🚀 Node.js, React.Js, React Native
-
 - 📫 How to reach me *https://www.matheusnadai.dev*
 
 - ⚡ Fun fact **Let's go 😜**
