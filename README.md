@@ -18,5 +18,19 @@ This is my favorite environment, where ideas and innovation become code.
 
 - ⚡ Fun fact **Let's go 😜**
 
+<p>I have knowledge in: </p>
+<div align="left">
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nextjs,ts,js,nodejs,react,prisma,mongodb,git,figma,css,html
+)](https://skillicons.dev)
+
+  </div>
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusNadai&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusNadai&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusNadai&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusNadai&theme=nord_dark)  |
+| :-: |
+
 "Há sempre a escolha entre voltar atrás para a segurança ou seguir em frente para o crescimento. O crescimento deve ser escolhido uma, duas, três e infinitas vezes" 🤯
 
